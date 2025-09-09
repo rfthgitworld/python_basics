@@ -1,0 +1,38 @@
+ 2025-07-26 00:52:30,974 -  INFO -  User ended session after one or more reservations.
+ 2025-07-26 00:52:30,974 -  DEBUG -  End of program
+ 2025-07-26 00:52:33,547 -  DEBUG -  Start of program
+ 2025-07-26 00:52:33,548 -  DEBUG -  data.py file loaded successfully
+ 2025-07-26 00:52:33,548 -  INFO -  Hotel instance created with room data.
+ 2025-07-26 00:52:35,388 -  DEBUG -  Displaying available rooms
+ 2025-07-26 00:52:38,315 -  INFO -  User guessed wrong. No discount.
+ 2025-07-26 00:52:46,915 -  INFO -  Room 'Premium Suite' selected for 5 guests
+ 2025-07-26 00:52:46,916 -  INFO -  Reservation created for J J in room Premium Suite, cost: $200
+ 2025-07-26 00:52:46,916 -  INFO -  Booking confirmed for J J, Room: Premium Suite, Cost: $200
+ 2025-07-26 00:52:46,916 -  DEBUG -  Displaying confirmation for GREENCITY4992
+ 2025-07-28 23:26:26,687 -  DEBUG -  Start of program
+ 2025-07-28 23:26:26,687 -  DEBUG -  data.py file loaded successfully
+ 2025-07-28 23:26:26,688 -  INFO -  Hotel instance created with room data.
+ 2025-07-28 23:26:38,746 -  DEBUG -  Displaying available rooms
+ 2025-07-28 23:26:42,873 -  INFO -  User won 20% discount.
+ 2025-07-28 23:26:58,850 -  ERROR -  Multiple suites needed since guests number is more than 10.
+ 2025-07-28 23:26:58,850 -  DEBUG -  End of program
+ 2025-09-09 13:36:18,872 -  DEBUG -  Start of program
+ 2025-09-09 13:36:18,956 -  DEBUG -  data.py file loaded successfully
+ 2025-09-09 13:36:18,959 -  INFO -  Hotel instance created with room data.
+ 2025-09-09 13:36:28,503 -  WARNING -  Invalid input for proceeding with reservation.
+ 2025-09-09 13:36:32,387 -  DEBUG -  Displaying available rooms
+ 2025-09-09 13:36:37,843 -  INFO -  User guessed wrong. No discount.
+ 2025-09-09 13:37:01,627 -  INFO -  Room 'Premium Suite' selected for 5 guests
+ 2025-09-09 13:37:01,629 -  INFO -  Reservation created for Jack Ryan in room Premium Suite, cost: $200
+ 2025-09-09 13:37:01,630 -  INFO -  Booking confirmed for Jack Ryan, Room: Premium Suite, Cost: $200
+ 2025-09-09 13:37:01,631 -  DEBUG -  Displaying confirmation for GREENCITY8591
+ 2025-09-09 13:37:04,650 -  INFO -  User ended session after one or more reservations.
+ 2025-09-09 13:37:04,653 -  DEBUG -  End of program
+ 2025-09-09 13:37:47,231 -  DEBUG -  Start of program
+ 2025-09-09 13:37:47,271 -  DEBUG -  data.py file loaded successfully
+ 2025-09-09 13:37:47,273 -  INFO -  Hotel instance created with room data.
+ 2025-09-09 13:37:59,609 -  DEBUG -  End of program
+ 2025-09-09 13:38:09,237 -  DEBUG -  Start of program
+ 2025-09-09 13:38:09,269 -  DEBUG -  data.py file loaded successfully
+ 2025-09-09 13:38:09,270 -  INFO -  Hotel instance created with room data.
+ 2025-09-09 13:38:12,223 -  DEBUG -  End of program
